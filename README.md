@@ -11,3 +11,12 @@ This web application allows two players to play a game of Pig Dice.
 vs studio
 Open a HTML file
 Open web browser of choice
+
+
+##Technologies Used
+HTML
+CSS
+Bootstrap
+JavaScript
+jQuery
+
