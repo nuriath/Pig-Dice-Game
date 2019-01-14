@@ -20,3 +20,7 @@ Bootstrap
 JavaScript
 jQuery
 
+##License
+This software is licensed under the MIT license.
+
+Copyright(c) 2019 Mwangaza Nuriath
