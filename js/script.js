@@ -45,3 +45,18 @@ Player.prototype.newGame = function(){
     this.totalscore = 0;
     this.playerName ="";
 }
+
+var clearValues = function(){
+    $(".player1Name").val("");
+    $("player2Name").val("");
+}
+// user interface
+$(document).ready(function){
+
+    $("button#start").click(function(event){
+        player1 = new Player(true);
+        player2 = new Player(false);
+        $(".player-console").show();
+        $(".")
+    })
+}
